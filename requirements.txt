@@ -1,0 +1,7 @@
+numpy==1.14.1
+
+#for the rnn black box predictor
+Keras==1.0.7
+h5py==2.7.1
+joblib==0.12.5
+gensim==3.6.0 #needed by jlib to load in the keras model 

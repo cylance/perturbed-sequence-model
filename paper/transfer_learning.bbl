@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{hochreiter}
+S.~Hochreiter and J.~Schmidhuber, ``Long short-term memory,'' {\em Neural
+  computation}, vol.~9, no.~8, pp.~1735--1780, 1997.
+
+\bibitem{panzner}
+M.~Panzner and P.~Cimiano, ``Comparing hidden markov models and long short term
+  memory neural networks for learning action representations,'' in {\em
+  International Workshop on Machine Learning, Optimization and Big Data},
+  pp.~94--105, Springer, 2016.
+
+\bibitem{cappe}
+O.~Capp{\'e}, ``Online em algorithm for hidden markov models,'' {\em Journal of
+  Computational and Graphical Statistics}, vol.~20, no.~3, pp.~728--749, 2011.
+
+\bibitem{khreich}
+W.~Khreich, E.~Granger, A.~Miri, and R.~Sabourin, ``A survey of techniques for
+  incremental learning of hmm parameters,'' {\em Information Sciences},
+  vol.~197, pp.~105--130, 2012.
+
+\bibitem{martin}
+E.~S. Mart{\'\i}n and F.~Quintana, ``Consistency and identifiability
+  revisited,'' {\em Brazilian Journal of Probability and Statistics},
+  pp.~99--106, 2002.
+
+\bibitem{douc}
+R.~Douc, E.~Moulines, J.~Olsson, R.~Van~Handel, {\em et~al.}, ``Consistency of
+  the maximum likelihood estimator for general hidden markov models,'' {\em the
+  Annals of Statistics}, vol.~39, no.~1, pp.~474--513, 2011.
+
+\bibitem{juang}
+B.-H. Juang and L.~R. Rabiner, ``A probabilistic distance measure for hidden
+  markov models,'' {\em AT\&T technical journal}, vol.~64, no.~2, pp.~391--408,
+  1985.
+
+\bibitem{yoon}
+S.~Yoon, H.~Yun, Y.~Kim, G.-t. Park, and K.~Jung, ``Efficient transfer learning
+  schemes for personalized language modeling using recurrent neural network,''
+  {\em arXiv preprint arXiv:1701.03578}, 2017.
+
+\bibitem{fraccaro}
+M.~Fraccaro, S.~K. S{\o}nderby, U.~Paquet, and O.~Winther, ``Sequential neural
+  models with stochastic layers,'' in {\em Advances in neural information
+  processing systems}, pp.~2199--2207, 2016.
+
+\end{thebibliography}

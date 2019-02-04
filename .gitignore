@@ -1,0 +1,20 @@
+env/
+**.pytest_cache/
+devel/
+eda/
+mybin/
+**/*.pytest_cache/
+**egg-info**
+*tmp*
+plots
+paper.zip
+old/
+/.idea
+*.pyc
+.DS_Store
+
+# begin latex files
+*.aux
+*.log
+*.synctex.gz
+# end latex files

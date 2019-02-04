@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Summary of contributions}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Models}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Hidden Markov Model}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{PROPS Model}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Notation}{}% 6
+\BOOKMARK [1][-]{section.4}{Streaming training for Hidden Markov Models}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Classical \(batch\) Estimation}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Streaming Estimation}{section.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Overview}{subsection.4.2}% 10
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Filter recursion}{subsection.4.2}% 11
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Auxiliary function recursion}{subsection.4.2}% 12
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Decomposition}{subsection.4.2}% 13
+\BOOKMARK [3][-]{subsubsection.4.2.5}{E-step}{subsection.4.2}% 14
+\BOOKMARK [3][-]{subsubsection.4.2.6}{M-step}{subsection.4.2}% 15
+\BOOKMARK [1][-]{section.5}{Streaming training for PROPS }{}% 16
+\BOOKMARK [1][-]{section.6}{Experiment 1 \(Simulation\): Are PROPS estimators consistent?}{}% 17
+\BOOKMARK [2][-]{subsection.6.1}{Methodology}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.2}{Results and Discussion}{section.6}% 19
+\BOOKMARK [1][-]{section.7}{Experiment 2: Probabilistically Perturbing a Wikipedia language model into a model of President Donald J. Trump's tweeting}{}% 20
+\BOOKMARK [2][-]{subsection.7.1}{Methodology}{section.7}% 21
+\BOOKMARK [2][-]{subsection.7.2}{Results and Discussion}{section.7}% 22
+\BOOKMARK [1][-]{section.8}{Related Work}{}% 23
+\BOOKMARK [1][-]{section.9}{Conclusion}{}% 24
+\BOOKMARK [1][-]{section*.7}{References}{}% 25
